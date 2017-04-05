@@ -37,7 +37,8 @@ GIT
 
 GIT
   remote: https://github.com/chef/ohai.git
-  revision: 21cc711810e860d9db378f39da88406eec48d878
+  revision: a7ef9a97a418566bafa2b4600191d413cac9b18e
+  branch: tm/additional_load_additional
   specs:
     ohai (13.0.0)
       chef-config (>= 12.5.0.alpha.1, < 14)
